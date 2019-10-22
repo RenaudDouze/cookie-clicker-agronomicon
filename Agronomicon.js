@@ -26,7 +26,7 @@ SOFTWARE.
 
 // ======= DATA =======
 
-var VERSION = 2.021;
+var VERSION = 2.022;
 var REVISION = 1;       // <<<RELEASE: var REVISION = $REVISION;>>>
 var IS_DEV = false;     // <<<RELEASE: var IS_DEV = false;>>>
 var IS_BETA = false;    // <<<RELEASE: var IS_BETA = $IS_BETA;>>>
